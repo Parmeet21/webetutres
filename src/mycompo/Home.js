@@ -6,7 +6,7 @@ import Ghrapic from './img-label/graphic.png'
 import { Link } from 'react-router-dom'
 export default function Home() {
     return (
-<div className='container'>
+<div className='container home'>
 <div className='row '> 
 <div  className='col-md-8'>  
   <img  src={fullstack} alt="" className='img-fluid animate__animated animate__swing' />
